@@ -21,7 +21,7 @@ sites:
   - name: Windows Node
     check: "tcp-ping"
     url: 144.76.40.118
-    port: 22
+    port: 3389
 
   - name: Mail Service
     check: "tcp-ping"
