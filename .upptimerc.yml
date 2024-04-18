@@ -7,25 +7,30 @@ sites:
     check: "tcp-ping"
     url: 144.76.40.174
     port: 22
+
+  - name: PVE01 (Main)
+    check: "tcp-ping"
+    url: 45.153.35.198
+    port: 22
   
   - name: Game & Voice Host
     check: "tcp-ping"
-    url: 142.132.249.249
+    url: 45.153.35.208
     port: 22
 
   - name: Cloud
     check: "tcp-ping"
-    url: 142.132.249.249
+    url: 45.153.35.199
     port: 22
-
-  # - name: Windows Node
-  #   check: "tcp-ping"
-  #   url: 144.76.40.118
-  #   port: 3389
 
   - name: Mail Service
     check: "tcp-ping"
     url: 82.165.1.212
+    port: 22
+
+  - name: Zabbix
+    check: "tcp-ping"
+    url: 37.27.86.65
     port: 22
 
 status-website:
