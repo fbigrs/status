@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 136,
-    "timeWeek": 126,
-    "timeMonth": 122,
-    "timeYear": 122,
+    "time": 121,
+    "timeDay": 91,
+    "timeWeek": 117,
+    "timeMonth": 121,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "game-and-voice-host",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 139,
-    "timeWeek": 128,
-    "timeMonth": 122,
+    "timeDay": 114,
+    "timeWeek": 119,
+    "timeMonth": 120,
     "timeYear": 120,
-    "dailyMinutesDown": {
-      "2024-05-04": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloud",
@@ -44,18 +42,16 @@
     "slug": "cloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 136,
-    "timeWeek": 127,
-    "timeMonth": 121,
+    "timeDay": 113,
+    "timeWeek": 119,
+    "timeMonth": 120,
     "timeYear": 120,
-    "dailyMinutesDown": {
-      "2024-05-04": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mail Service",
@@ -69,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 140,
-    "timeWeek": 130,
+    "timeDay": 94,
+    "timeWeek": 121,
     "timeMonth": 124,
     "timeYear": 120,
     "dailyMinutesDown": {}
@@ -86,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 169,
-    "timeWeek": 151,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "time": 147,
+    "timeDay": 116,
+    "timeWeek": 143,
+    "timeMonth": 147,
+    "timeYear": 147,
     "dailyMinutesDown": {}
   }
 ]
