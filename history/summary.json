@@ -78,9 +78,9 @@
     "url": "37.27.86.65",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zabbix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,6 +89,8 @@
     "timeWeek": 140,
     "timeMonth": 136,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-11": 0
+    }
   }
 ]
