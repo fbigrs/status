@@ -22,9 +22,9 @@
     "url": "45.153.35.208",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-and-voice-host",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 109,
     "timeMonth": 111,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-15": 0
+    }
   },
   {
     "name": "Cloud",
@@ -79,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zabbix",
     "status": "down",
-    "uptime": "78.09%",
+    "uptime": "77.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "21.66%",
-    "uptimeYear": "78.09%",
+    "uptimeMonth": "18.92%",
+    "uptimeYear": "77.54%",
     "time": 142,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 154,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2024-08-15": 86,
+      "2024-08-15": 1286,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
